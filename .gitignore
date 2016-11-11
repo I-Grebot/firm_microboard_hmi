@@ -1,3 +1,8 @@
+sd_card/
+microBoard_hmi.X/dist
+microBoard_hmi.X/build
+microBoard_hmi.X/debug
+
 # Object files
 *.o
 *.ko
